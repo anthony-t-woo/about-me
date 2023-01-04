@@ -33,3 +33,18 @@ header .logo {
 main {
     padding: 20px;
 }
+#image {
+    width: 400px;
+}
+
+h1 {
+    color: slateblue;
+}
+
+h2 {
+    color: purple;
+    padding: 10px;
+}
+li {
+    font-style: italic;
+}
